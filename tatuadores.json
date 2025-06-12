@@ -5,7 +5,7 @@
       "estilo": "Realismo",
       "ubicacion": "Córdoba Capital",
       "precio": 15000,
-      "foto": "https://i.imgur.com/LR0BQms.jpg",
+      "foto": "https://images.unsplash.com/photo-1588776814546-356dfc32c1a4?auto=format&fit=crop&w=500&q=80",
       "whatsapp": "5493511234567"
     },
     {
@@ -13,7 +13,7 @@
       "estilo": "Blackwork",
       "ubicacion": "Villa Allende",
       "precio": 12000,
-      "foto": "https://i.imgur.com/OtqZ6SO.jpg",
+      "foto": "https://images.unsplash.com/photo-1619983081563-1f98f5d2d80d?auto=format&fit=crop&w=500&q=80",
       "whatsapp": "5493517654321"
     },
     {
@@ -21,16 +21,4 @@
       "estilo": "Old School",
       "ubicacion": "Alta Gracia",
       "precio": 10000,
-      "foto": "https://i.imgur.com/K5U5jTz.jpg",
-      "whatsapp": "5493519988776"
-    },
-    {
-      "nombre": "Flor Tinta",
-      "estilo": "Fine Line",
-      "ubicacion": "Córdoba Capital",
-      "precio": 13000,
-      "foto": "https://i.imgur.com/FYXEP6Z.jpg",
-      "whatsapp": "5493513344556"
-    }
-  ]
-}
+      "foto": "https://images.unsplash.com/photo-1622737132459-03b6a7d04029?auto=format&
