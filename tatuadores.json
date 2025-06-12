@@ -1,0 +1,36 @@
+{
+  "tatuadores": [
+    {
+      "nombre": "Lucas Tattoo",
+      "estilo": "Realismo",
+      "ubicacion": "Córdoba Capital",
+      "precio": 15000,
+      "foto": "https://i.imgur.com/LR0BQms.jpg",
+      "whatsapp": "5493511234567"
+    },
+    {
+      "nombre": "Vale Ink",
+      "estilo": "Blackwork",
+      "ubicacion": "Villa Allende",
+      "precio": 12000,
+      "foto": "https://i.imgur.com/OtqZ6SO.jpg",
+      "whatsapp": "5493517654321"
+    },
+    {
+      "nombre": "Maxi Needles",
+      "estilo": "Old School",
+      "ubicacion": "Alta Gracia",
+      "precio": 10000,
+      "foto": "https://i.imgur.com/K5U5jTz.jpg",
+      "whatsapp": "5493519988776"
+    },
+    {
+      "nombre": "Flor Tinta",
+      "estilo": "Fine Line",
+      "ubicacion": "Córdoba Capital",
+      "precio": 13000,
+      "foto": "https://i.imgur.com/FYXEP6Z.jpg",
+      "whatsapp": "5493513344556"
+    }
+  ]
+}
